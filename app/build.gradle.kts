@@ -58,4 +58,10 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
+
+    implementation("mysql:mysql-connector-java:8.0.33")
+
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
+
+
 }
